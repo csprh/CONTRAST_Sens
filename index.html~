@@ -76,9 +76,11 @@ Pyramid Transformss</h1>
                 <p>This project is concerned with the application of machine learning techniques to develop a state-of-the-art detection and prediction system for spatiotemporal events found within remote sensing data; specifically, Harmful Algal Bloom events (HABs). </p>
 		<dl>
 			<dt>Funders</dt>
-			<dd>British Council for funding: British Council Award ref 279334808</dd>
+			<dd>EPSRC: the Vision for the Future Platform Grant: EP/M000885/1</dd>
+			<dd>VSAP–Khalifa University of Science,
+Technology and Research</dd>
 			<dt>Collaborators</dt>
-			<dd>Kustar/ MASDAR, UAE; FWC, Florida; EAD, UAE</dd>
+			<dd>Kustar/ MASDAR, UAE</dd>
 		</dl>
             </div>
             <hr />
